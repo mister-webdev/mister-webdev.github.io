@@ -240,9 +240,7 @@ body {
   background-size: cover;
   position: relative;
   -webkit-box-shadow: 0px 13px 15px -11px black;
-          box-shadow: 0px 13px 15px -11px black;
-  -webkit-backdrop-filter: blur(4px);
-          backdrop-filter: blur(4px); }
+          box-shadow: 0px 13px 15px -11px black; }
   .section-header .section-inner {
     height: 100vh;
     position: relative;
