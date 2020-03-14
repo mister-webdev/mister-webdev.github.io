@@ -235,7 +235,7 @@ body {
 
 .section-header {
   color: #fff;
-  background: url("/img/header-bg.jpg") no-repeat 70% 10%;
+  background: url("https://github.com/mister-webdev/mister-webdev.github.io/blob/master/market-mobsterz/img/header-bg.jpg") no-repeat 70% 10%;
   background-attachment: fixed;
   background-size: cover;
   position: relative;
