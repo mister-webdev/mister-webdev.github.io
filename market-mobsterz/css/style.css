@@ -235,7 +235,7 @@ body {
 
 .section-header {
   color: #fff;
-  background: url("/img/header-bg.jpg") no-repeat 70% 10%;
+  background: url("img/header-bg.jpg") no-repeat 70% 10%;
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -695,7 +695,7 @@ body {
 .section-free {
   text-align: center;
   color: #fff;
-  background: url("/img/free-block.jpg") no-repeat 25% 30%;
+  background: url("img/free-block.jpg") no-repeat 25% 30%;
   padding: 120px 0px 120px 0px;
   position: relative;
   z-index: 11; }
